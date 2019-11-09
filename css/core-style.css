@@ -816,10 +816,10 @@ img {
         bottom: -165px; }
         @media only screen and (min-width: 992px) and (max-width: 1199px) {
           .main-content-wrapper .single-product-area .single_product_thumb .carousel-indicators {
-            bottom: -105px; } }
+            bottom: 50px; } }
         @media only screen and (min-width: 768px) and (max-width: 991px) {
           .main-content-wrapper .single-product-area .single_product_thumb .carousel-indicators {
-            bottom: -105px; } }
+            bottom: 50px; } }
         @media only screen and (max-width: 767px) {
           .main-content-wrapper .single-product-area .single_product_thumb .carousel-indicators {
             bottom: 50px; } }
