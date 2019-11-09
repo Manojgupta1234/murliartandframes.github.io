@@ -810,7 +810,7 @@ img {
     .main-content-wrapper .single-product-area .single_product_thumb {
       position: relative;
       z-index: 1;
-      margin-bottom: 170px; }
+      margin-bottom: 50px; }
       .main-content-wrapper .single-product-area .single_product_thumb .carousel-indicators {
         margin: 0 7.5px;
         bottom: -165px; }
