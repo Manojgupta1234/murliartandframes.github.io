@@ -447,7 +447,7 @@ img {
       .main-content-wrapper .header-area .nav-close:hover {
         background-color: #131212; }
     .main-content-wrapper .header-area .logo {
-      margin-bottom: 100px;
+      margin-bottom: 70px;
       display: block; }
     .main-content-wrapper .header-area .amado-nav li a {
       font-size: 14px;
@@ -510,7 +510,7 @@ img {
         color: #fbb710; }
     @media only screen and (max-width: 767px) {
       .main-content-wrapper .header-area .social-info {
-        margin-bottom: 75px; } }
+        margin-top: 60px; } }
   .main-content-wrapper .products-catagories-area {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 calc(100% - 320px);
