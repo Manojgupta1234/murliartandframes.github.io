@@ -48,5 +48,8 @@ function loadProducts(){
 
 $(document).ready(function() {
 	loadProducts();
+    if(localStorage.product === 'photo-frame'){
+        $('.balaji').css('display','block');
+    }
 });
 

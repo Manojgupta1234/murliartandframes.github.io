@@ -1552,3 +1552,344 @@ img {
 /* ##### The End ##### */
 
 /*# sourceMappingURL=core-style.css.map */
+.balaji{
+  display: none;
+}
+.balaji-lighting-text{
+  text-align: center;
+  margin-top: 15px;
+  font-size: 23px;
+}
+.imgbalaji{
+  height: 400px;
+}
+.fullpage-wrapper {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+}
+.light-container {
+  position: absolute;
+  height: 410px;
+  width: 340px;
+  animation: 1s infinite linear light-anim;
+}
+.light2-container {
+  position: absolute;
+  height: 410px;
+  width: 340px;
+  animation: 1s infinite linear light2-anim;
+}
+.light3-container {
+  position: absolute;
+  height: 410px;
+  width: 340px;
+  animation: 1s infinite linear light1-anim; 
+}
+.light4-container {
+  position: absolute;
+  height: 410px;
+  width: 340px;
+  animation: 1s infinite linear light4-anim; 
+}
+.light5-container {
+  position: absolute;
+  height: 410px;
+  width: 340px;
+  animation: 1s infinite linear light5-anim; 
+}
+.light {
+  position: absolute;
+  width: 10px;
+  height: 5px;
+  top: calc(50% - 155px);
+  left: calc(50% - 25px);
+  transform-origin: 15px 110px;
+  background-color: #FFEB3B;
+  box-shadow: 0 0 9px 3px #f1e35d;
+  animation: 1s infinite linear light-color;
+}
+.light2 {
+  position: absolute;
+  width: 10px;
+  height: 5px;
+  left: calc(50% - 25px);
+  transform-origin: 15px 110px;
+  background-color: #FFEB3B;
+  box-shadow: 0 0 9px 3px #f1e35d;
+  animation: 1s infinite linear light-color;
+}
+.light3 {
+  position: absolute;
+  width: 10px;
+  height: 5px;
+  top: calc(50% - 155px);
+  left: calc(50% - 36px);
+  transform-origin: 15px 110px;
+  background-color: #FFEB3B;
+  box-shadow: 0 0 9px 3px #f1e35d;
+  animation: 1s infinite linear light-color;
+}
+.light4 {
+  position: absolute;
+  width: 10px;
+  height: 5px;
+  left: calc(50% - 252px);
+  transform-origin: 15px 110px;
+  background-color: #FFEB3B;
+  box-shadow: 0 0 9px 3px #f1e35d;
+  animation: 1s infinite linear light-color;
+}
+.light5 {
+  position: absolute;
+  width: 5px;
+  height: 10px;
+  top: calc(50% + 57px);
+  transform-origin: 15px 110px;
+  background-color: #FFEB3B;
+  box-shadow: 0 0 9px 3px #f1e35d;
+  animation: 1s infinite linear light-color;
+}
+.light-1 {
+  transform: rotate(0deg);
+}
+.light-2 {
+  transform: rotate(10deg);
+}
+.light-3 {
+  transform: rotate(20deg);
+}
+.light-4 {
+  transform: rotate(30deg);
+}
+.light-5 {
+  transform: rotate(40deg);
+}
+.light-6 {
+  transform: rotate(50deg);
+}
+.light-7 {
+  transform: rotate(60deg);
+}
+.light-8 {
+  transform: rotate(70deg);
+}
+.light-9 {
+  transform: rotate(80deg);
+}
+.light-10 {
+  transform: rotate(90deg);
+}
+.light-11 {
+  transform: rotate(90deg);
+  top: calc(50% - 135px);
+}
+.light-12 {
+  transform: rotate(90deg);
+  top: calc(50% - 115px);
+}
+.light-13 {
+  transform: rotate(90deg);
+  top: calc(50% - 95px);
+}
+.light-14 {
+  transform: rotate(90deg);
+  top: calc(50% - 75px);
+}
+.light-15 {
+  transform: rotate(90deg);
+  top: calc(50% - 55px);
+}
+.light-16 {
+  transform: rotate(90deg);
+  top: calc(50% - 35px);
+}
+.light-17 {
+  transform: rotate(90deg);
+  top: calc(50% - 15px);
+}
+.light-18 {
+  transform: rotate(90deg);
+  top: calc(50% + 5px);
+}
+.light-19 {
+  transform: rotate(90deg);
+  top: calc(50% + 25px);
+}
+.light-20 {
+  transform: rotate(90deg);
+  top: calc(50% + 45px);
+}
+.light-30 {
+  transform: rotate(363deg);
+}
+.light-21 {
+  transform: rotate(355deg);
+}
+.light-22 {
+  transform: rotate(345deg);
+}
+.light-23 {
+  transform: rotate(335deg);
+}
+.light-24 {
+  transform: rotate(325deg);
+}
+.light-25 {
+  transform: rotate(315deg);
+}
+.light-26 {
+  transform: rotate(305deg);
+}
+.light-27 {
+  transform: rotate(295deg);
+}
+.light-28 {
+  transform: rotate(285deg);
+}
+.light-29 {
+  transform: rotate(275deg);
+}
+.light-31 {
+  transform: rotate(90deg);
+  top: calc(50% - 130px);
+}
+.light-32 {
+  transform: rotate(90deg);
+  top: calc(50% - 110px);
+}
+.light-33 {
+  transform: rotate(90deg);
+  top: calc(50% - 90px);
+}
+.light-34 {
+  transform: rotate(90deg);
+  top: calc(50% - 70px);
+}
+.light-35 {
+  transform: rotate(90deg);
+  top: calc(50% - 50px);
+}
+.light-36 {
+  transform: rotate(90deg);
+  top: calc(50% - 30px);
+}
+.light-37 {
+  transform: rotate(90deg);
+  top: calc(50% - 10px);
+}
+.light-38 {
+  transform: rotate(90deg);
+  top: calc(50% + 10px);
+}
+.light-39 {
+  transform: rotate(90deg);
+  top: calc(50% + 30px);
+}
+.light-40 {
+  transform: rotate(90deg);
+  top: calc(50% + 45px);
+}
+.light-52 {
+  transform: rotate(90deg);
+  left: calc(50% - 240px);
+}
+.light-41 {
+  transform: rotate(90deg);
+  left: calc(50% - 220px);
+}
+.light-42 {
+  transform: rotate(90deg);
+  left: calc(50% - 200px);
+}
+.light-43 {
+  transform: rotate(90deg);
+  left: calc(50% - 180px);
+}
+.light-44 {
+  transform: rotate(90deg);
+  left: calc(50% - 160px);
+}
+.light-45 {
+  transform: rotate(90deg);
+  left: calc(50% - 150px);
+}
+.light-46 {
+  transform: rotate(90deg);
+  left: calc(50% - 130px);
+}
+.light-47 {
+  transform: rotate(90deg);
+  left: calc(50% - 110px);
+}
+.light-48 {
+  transform: rotate(90deg);
+  left: calc(50% - 90px);
+}
+.light-49 {
+  transform: rotate(90deg);
+  left: calc(50% - 70px);
+}
+.light-50 {
+  transform: rotate(90deg);
+  left: calc(50% - 50px);
+}
+.light-51 {
+  transform: rotate(90deg);
+  left: calc(50% - 30px);
+}
+@keyframes light-anim {
+  100%  {
+    transform: rotate(2deg);
+    opacity: 0.5;
+  }
+  50% {
+    transform: rotate(0deg);
+    opacity: 1;
+  }
+  0%{
+    transform: rotate(2deg);
+    opacity: 0.5;
+  }
+  
+  background-color: red;
+
+}
+@keyframes light1-anim {
+  0%  {
+    transform: rotate(0deg);
+    opacity: 0.5;
+  }
+  50% {
+    transform: rotate(2deg);
+    opacity: 1;
+  }
+  100%{
+    transform: rotate(0deg);
+    opacity: 0.5;
+  }
+}
+@keyframes light-color{
+  0%{
+    
+  }
+  100%{
+    background-color: red;
+    box-shadow: 0 0 9px 3px red;
+  }
+}
+@keyframes light2-anim {
+    0%{height:410px;opacity: 0.5;}
+    50%{height: 420px;opacity: 1;}
+    100%{height:410px;opacity: 0.5;}
+}
+@keyframes light4-anim {
+    100%{height:410px;opacity: 0.5;}
+    50%{height: 420px;opacity: 1;}
+    0%{height:410px;opacity: 0.5;}
+}
+@keyframes light5-anim {
+    100%{width:330px; opacity:0.5;}
+    50%{width: 340px; opacity:1}
+    0%{width:330px; opacity:0.5}
+}
