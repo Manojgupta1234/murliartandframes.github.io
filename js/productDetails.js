@@ -43,7 +43,7 @@ function loadProducts(){
                     "</div>";
 
 	}
-	$("#productElement").html(productsElement); 
+	$("#productElement").append(productsElement); 
 }
 
 $(document).ready(function() {
